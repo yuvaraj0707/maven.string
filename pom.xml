@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>simple-maven-app</artifactId>
+    <artifactId>maven.string</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
